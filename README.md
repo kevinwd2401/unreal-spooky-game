@@ -23,3 +23,11 @@ Kevin:
  - NPCs with subtypes: There are 3 unique enemies with different mechanics in the game, the statue, the eye, and the mannequin, and latter two inherit from the same parent controller class as enemies that depend on the players vision
  - Materials using custom shaders: A static post-processing shader using HLSL is enabled when the player stares at the eye enemy
  - More levels: There are 3 levels total: the first is a puzzle level, the second introduces 2 enemies, and the third contains the last enemy. The maps have multiple alterations in layout, and Unreal’s modelling menu is used.
+
+Aidan:
+ - Dialogue with Branching Options
+ - Inventory with UI
+ - HLSL
+ - Particles
+ - Post Processing (Occasional eye blink, red vision on dying, nightmare jumpscare effect)
+ - Inventory with Combining Items System
