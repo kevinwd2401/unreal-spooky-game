@@ -28,6 +28,6 @@ Aidan:
  - Dialogue with Branching Options
  - Inventory with UI
  - HLSL
- - Particles
+ - Scary Particles by Doors
  - Post Processing (Occasional eye blink, red vision on dying, nightmare jumpscare effect)
  - Inventory with Combining Items System
