@@ -2,6 +2,8 @@
 
 Our Final Project! A horror game with RPG elements!
 
+<img width="1178" height="797" alt="Screenshot 2025-12-06 141718" src="https://github.com/user-attachments/assets/183b1fed-bc60-4bc9-8b2d-cc18aa4297b2" />
+
 ## Description
 
 The goal of this horror-themed game is to navigate through the level and reach the door to the next level. In the first level, you have to interact with the various objects in the level (left-click) and then use the inventory (I) and combining features to get the key to reach the next level. The subsequent levels don’t require keys to open the door, but you have to find the door while avoiding the monsters.
